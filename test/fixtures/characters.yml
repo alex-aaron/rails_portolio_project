@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  planet_id: 1
+  species_id: 1
+  occupation: MyString
+  description: MyText
+
+two:
+  name: MyString
+  planet_id: 1
+  species_id: 1
+  occupation: MyString
+  description: MyText
