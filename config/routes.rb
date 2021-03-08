@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  root 'static#home'
   resources :races # [:index, :new, :show, :create, :update, :destroy]
   resources :planets # [:index, :new, :show, :create, :update, :destroy]
   resources :characters # [:index, :new, :show, :create, :update, :destroy]
